@@ -1,6 +1,6 @@
 package cn.zlatanlgd.programmercarl;
 /*
- * @lc app=leetcode.cn id=367 lang=java
+* @lc app=leetcode.cn id=367 lang=java
  *
  * [367] 有效的完全平方数
  */
