@@ -47,7 +47,7 @@ class Solution {
                     break;
                 default:
                     stack.push(Integer.valueOf(t));
-            }x
+            }
         }
         return stack.pop();
     }
