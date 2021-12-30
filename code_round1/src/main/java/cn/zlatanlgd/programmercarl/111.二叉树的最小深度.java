@@ -38,7 +38,6 @@ class Solution {
                 if (node.right!=null) {
                     que.add(node.right);
                 }
-                
                 size--;
             }
         }
